@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="antrunner" />
+        <module name="drools-examples-fusion" />
+        <module name="ect-maven-plugin" />
+        <module name="ejc-maven-plugin" />
+        <module name="milyn-commons" />
+        <module name="milyn-edisax-parser" />
+        <module name="milyn-scribe-core" />
+        <module name="milyn-scribe-hibernate" />
+        <module name="milyn-scribe-ibatis" />
+        <module name="milyn-scribe-jpa" />
+        <module name="milyn-smooks-all" />
+        <module name="milyn-smooks-calc" />
+        <module name="milyn-smooks-camel" />
+        <module name="milyn-smooks-core" />
+        <module name="milyn-smooks-csv" />
+        <module name="milyn-smooks-ect" />
+        <module name="milyn-smooks-edi" />
+        <module name="milyn-smooks-edi-test" />
+        <module name="milyn-smooks-ediutils" />
+        <module name="milyn-smooks-ejc" />
+        <module name="milyn-smooks-example-bundle-activator" />
+        <module name="milyn-smooks-example-camel-csv-to-xml" />
+        <module name="milyn-smooks-example-camel-dataformat" />
+        <module name="milyn-smooks-example-camel-integration" />
+        <module name="milyn-smooks-example-camel-unedifact-to-xml" />
+        <module name="milyn-smooks-example-csv-to-java" />
+        <module name="milyn-smooks-example-csv-to-java-progmatic" />
+        <module name="milyn-smooks-example-csv-to-xml" />
+        <module name="milyn-smooks-example-csv-to-xml-2" />
+        <module name="milyn-smooks-example-csv-variable-record" />
+        <module name="milyn-smooks-example-dao-router" />
+        <module name="milyn-smooks-example-db-extract-transform-load" />
+        <module name="milyn-smooks-example-dyna-model-builder" />
+        <module name="milyn-smooks-example-edi-to-java" />
+        <module name="milyn-smooks-example-edi-to-xml" />
+        <module name="milyn-smooks-example-edi-with-import-to-java" />
+        <module name="milyn-smooks-example-ejc-model-gen" />
+        <module name="milyn-smooks-example-ejc-model-use" />
+        <module name="milyn-smooks-example-file-consumer" />
+        <module name="milyn-smooks-example-file-splitter-router" />
+        <module name="milyn-smooks-example-fixed-length-to-java" />
+        <module name="milyn-smooks-example-flatfile-to-xml-regex" />
+        <module name="milyn-smooks-example-ftl-huge" />
+        <module name="milyn-smooks-example-groovy" />
+        <module name="milyn-smooks-example-java-basic" />
+        <module name="milyn-smooks-example-java-to-java" />
+        <module name="milyn-smooks-example-java-to-xml" />
+        <module name="milyn-smooks-example-jms-consumer" />
+        <module name="milyn-smooks-example-jms-router-provider" />
+        <module name="milyn-smooks-example-jms-splitter-router" />
+        <module name="milyn-smooks-example-json-to-java" />
+        <module name="milyn-smooks-example-model-driven-basic" />
+        <module name="milyn-smooks-example-model-driven-basic-virtual" />
+        <module name="milyn-smooks-example-peaberry" />
+        <module name="milyn-smooks-example-profiling" />
+        <module name="milyn-smooks-example-service-tracker" />
+        <module name="milyn-smooks-example-validation-basic" />
+        <module name="milyn-smooks-example-xml-rw" />
+        <module name="milyn-smooks-example-xml-rw-transform" />
+        <module name="milyn-smooks-example-xml-to-java" />
+        <module name="milyn-smooks-example-xml-to-java-virtual" />
+        <module name="milyn-smooks-example-xslt-basic" />
+        <module name="milyn-smooks-example-xslt-groovy" />
+        <module name="milyn-smooks-example-xslt-namespaces" />
+        <module name="milyn-smooks-example-yaml-to-java" />
+        <module name="milyn-smooks-examples-sj-testimonial" />
+        <module name="milyn-smooks-fixed-length" />
+        <module name="milyn-smooks-flatfile" />
+        <module name="milyn-smooks-javabean" />
+        <module name="milyn-smooks-json" />
+        <module name="milyn-smooks-misc" />
+        <module name="milyn-smooks-persistence" />
+        <module name="milyn-smooks-routing" />
+        <module name="milyn-smooks-rules" />
+        <module name="milyn-smooks-scripting" />
+        <module name="milyn-smooks-templating" />
+        <module name="milyn-smooks-validation" />
+        <module name="milyn-smooks-yaml" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="antrunner" target="1.8" />
+      <module name="drools-examples-fusion" target="1.8" />
+      <module name="ect-maven-plugin" target="1.8" />
+      <module name="ejc-maven-plugin" target="1.8" />
+      <module name="milyn-aggregator" target="1.8" />
+      <module name="milyn-commons" target="1.8" />
+      <module name="milyn-edi" target="1.8" />
+      <module name="milyn-edisax-parser" target="1.8" />
+      <module name="milyn-scribe" target="1.8" />
+      <module name="milyn-scribe-core" target="1.8" />
+      <module name="milyn-scribe-hibernate" target="1.8" />
+      <module name="milyn-scribe-ibatis" target="1.8" />
+      <module name="milyn-scribe-jpa" target="1.8" />
+      <module name="milyn-smooks-all" target="1.8" />
+      <module name="milyn-smooks-calc" target="1.8" />
+      <module name="milyn-smooks-camel" target="1.8" />
+      <module name="milyn-smooks-core" target="1.8" />
+      <module name="milyn-smooks-csv" target="1.8" />
+      <module name="milyn-smooks-ect" target="1.8" />
+      <module name="milyn-smooks-edi" target="1.8" />
+      <module name="milyn-smooks-edi-test" target="1.8" />
+      <module name="milyn-smooks-ediutils" target="1.8" />
+      <module name="milyn-smooks-ejc" target="1.8" />
+      <module name="milyn-smooks-example-bundle-activator" target="1.8" />
+      <module name="milyn-smooks-example-camel" target="1.8" />
+      <module name="milyn-smooks-example-camel-csv-to-xml" target="1.8" />
+      <module name="milyn-smooks-example-camel-dataformat" target="1.8" />
+      <module name="milyn-smooks-example-camel-integration" target="1.8" />
+      <module name="milyn-smooks-example-camel-unedifact-to-xml" target="1.8" />
+      <module name="milyn-smooks-example-csv-to-java" target="1.8" />
+      <module name="milyn-smooks-example-csv-to-java-progmatic" target="1.8" />
+      <module name="milyn-smooks-example-csv-to-xml" target="1.8" />
+      <module name="milyn-smooks-example-csv-to-xml-2" target="1.8" />
+      <module name="milyn-smooks-example-csv-variable-record" target="1.8" />
+      <module name="milyn-smooks-example-dao-router" target="1.8" />
+      <module name="milyn-smooks-example-db-extract-transform-load" target="1.8" />
+      <module name="milyn-smooks-example-dyna-model-builder" target="1.8" />
+      <module name="milyn-smooks-example-edi-to-java" target="1.8" />
+      <module name="milyn-smooks-example-edi-to-xml" target="1.8" />
+      <module name="milyn-smooks-example-edi-with-import-to-java" target="1.8" />
+      <module name="milyn-smooks-example-ejc-model-gen" target="1.8" />
+      <module name="milyn-smooks-example-ejc-model-use" target="1.8" />
+      <module name="milyn-smooks-example-file-consumer" target="1.8" />
+      <module name="milyn-smooks-example-file-router" target="1.8" />
+      <module name="milyn-smooks-example-file-splitter-router" target="1.8" />
+      <module name="milyn-smooks-example-fixed-length-to-java" target="1.8" />
+      <module name="milyn-smooks-example-flatfile-to-xml-regex" target="1.8" />
+      <module name="milyn-smooks-example-ftl-huge" target="1.8" />
+      <module name="milyn-smooks-example-groovy" target="1.8" />
+      <module name="milyn-smooks-example-java-basic" target="1.8" />
+      <module name="milyn-smooks-example-java-to-java" target="1.8" />
+      <module name="milyn-smooks-example-java-to-xml" target="1.8" />
+      <module name="milyn-smooks-example-jms-consumer" target="1.8" />
+      <module name="milyn-smooks-example-jms-router" target="1.8" />
+      <module name="milyn-smooks-example-jms-router-provider" target="1.8" />
+      <module name="milyn-smooks-example-jms-splitter-router" target="1.8" />
+      <module name="milyn-smooks-example-json-to-java" target="1.8" />
+      <module name="milyn-smooks-example-model-driven-basic" target="1.8" />
+      <module name="milyn-smooks-example-model-driven-basic-virtual" target="1.8" />
+      <module name="milyn-smooks-example-peaberry" target="1.8" />
+      <module name="milyn-smooks-example-profiling" target="1.8" />
+      <module name="milyn-smooks-example-service-tracker" target="1.8" />
+      <module name="milyn-smooks-example-validation-basic" target="1.8" />
+      <module name="milyn-smooks-example-xml-rw" target="1.8" />
+      <module name="milyn-smooks-example-xml-rw-transform" target="1.8" />
+      <module name="milyn-smooks-example-xml-to-java" target="1.8" />
+      <module name="milyn-smooks-example-xml-to-java-virtual" target="1.8" />
+      <module name="milyn-smooks-example-xslt-basic" target="1.8" />
+      <module name="milyn-smooks-example-xslt-groovy" target="1.8" />
+      <module name="milyn-smooks-example-xslt-namespaces" target="1.8" />
+      <module name="milyn-smooks-example-yaml-to-java" target="1.8" />
+      <module name="milyn-smooks-examples-osgi" target="1.8" />
+      <module name="milyn-smooks-examples-sj-testimonial" target="1.8" />
+      <module name="milyn-smooks-fixed-length" target="1.8" />
+      <module name="milyn-smooks-flatfile" target="1.8" />
+      <module name="milyn-smooks-javabean" target="1.8" />
+      <module name="milyn-smooks-json" target="1.8" />
+      <module name="milyn-smooks-misc" target="1.8" />
+      <module name="milyn-smooks-persistence" target="1.8" />
+      <module name="milyn-smooks-routing" target="1.8" />
+      <module name="milyn-smooks-rules" target="1.8" />
+      <module name="milyn-smooks-scripting" target="1.8" />
+      <module name="milyn-smooks-templating" target="1.8" />
+      <module name="milyn-smooks-validation" target="1.8" />
+      <module name="milyn-smooks-yaml" target="1.8" />
+      <module name="scribe-parent" target="1.8" />
+      <module name="smooks-cartridge-aggregator" target="1.8" />
+      <module name="smooks-examples" target="1.8" />
+      <module name="smooks-examples-parent" target="1.8" />
+      <module name="smooks-parent" target="1.8" />
+      <module name="testres" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="EclipseCompilerSettings">
+    <option name="ECJ_TOOL_PATH" value="$PROJECT_DIR$/../../ecj-4.5.2.jar" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="antrunner" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="drools-examples-fusion" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="ect-maven-plugin" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="ejc-maven-plugin" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-commons" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-edisax-parser" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-scribe-core" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-scribe-hibernate" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-scribe-ibatis" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-scribe-jpa" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-all" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-calc" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-camel" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-core" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-csv" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-ect" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-edi" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-edi-test" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-ediutils" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-ejc" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-bundle-activator" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-camel-csv-to-xml" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-camel-dataformat" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-camel-integration" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-camel-unedifact-to-xml" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-csv-to-java" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-csv-to-java-progmatic" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-csv-to-xml" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-csv-to-xml-2" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-csv-variable-record" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-dao-router" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-db-extract-transform-load" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-dyna-model-builder" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-edi-to-java" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-edi-to-xml" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-edi-with-import-to-java" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-ejc-model-gen" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-ejc-model-use" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-file-consumer" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-file-splitter-router" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-fixed-length-to-java" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-flatfile-to-xml-regex" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-ftl-huge" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-groovy" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-java-basic" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-java-to-java" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-java-to-xml" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-jms-consumer" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-jms-router-provider" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-jms-splitter-router" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-json-to-java" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-model-driven-basic" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-model-driven-basic-virtual" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-peaberry" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-profiling" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-service-tracker" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-validation-basic" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-xml-rw" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-xml-rw-transform" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-xml-to-java" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-xml-to-java-virtual" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-xslt-basic" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-xslt-groovy" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-xslt-namespaces" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-example-yaml-to-java" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-examples-sj-testimonial" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-fixed-length" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-flatfile" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-javabean" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-json" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-misc" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-persistence" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-routing" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-rules" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-scripting" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-templating" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-validation" options="-Xlint:deprecation -Xlint:unchecked" />
+      <module name="milyn-smooks-yaml" options="-Xlint:deprecation -Xlint:unchecked" />
+    </option>
+  </component>
+</project>
