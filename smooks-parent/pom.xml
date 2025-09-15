@@ -1191,10 +1191,17 @@
     </profile>
   </profiles>
 
+  <!--<distributionManagement>-->
+    <!--<snapshotRepository>-->
+      <!--<id>ossrh</id>-->
+      <!--<url>https://oss.sonatype.org/content/repositories/snapshots</url>-->
+    <!--</snapshotRepository>-->
+  <!--</distributionManagement>-->
+
   <distributionManagement>
-    <snapshotRepository>
-      <id>ossrh</id>
-      <url>https://oss.sonatype.org/content/repositories/snapshots</url>
-    </snapshotRepository>
+    <repository>
+      <id>github</id>
+      <url>https://maven.pkg.github.com/BrianZhao-WellSky/smooks-1.7.1-common-lang3</url>
+    </repository>
   </distributionManagement>
 </project>

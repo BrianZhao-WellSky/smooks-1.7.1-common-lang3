@@ -1,87 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/commons" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/edi/ect" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/edi/edi-test" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/edi/edi-utils" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/edi/edisax" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/edi/ejc" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/scribe/adapter/hibernate" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/scribe/adapter/ibatis" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/scribe/adapter/jpa" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/scribe/core" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-all" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-cartridges/calc" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-cartridges/camel" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-cartridges/csv" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-cartridges/edi" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-cartridges/flatfile" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-cartridges/javabean" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-cartridges/json" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-cartridges/misc" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-cartridges/persistence" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-cartridges/routing" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-cartridges/rules" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-cartridges/scripting" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-cartridges/validation" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-cartridges/yaml" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-core" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/camel/camel-csv-to-xml" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/camel/camel-dataformat" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/camel/camel-integration" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/camel/camel-unedifact-to-xml" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/csv-to-java" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/csv-to-java-programmatic" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/csv-to-xml" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/csv-to-xml-2" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/csv-variable-record" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/dao-router" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/db-extract-transform-load" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/dynamic-model-builder" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/edi-to-java" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/edi-to-xml" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/edi-with-import-to-java" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/ejc/ejc-gen" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/ejc/ejc-use" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/file-router/file-consumer" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/file-router/splitter-router" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/fixed-length-to-java" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/flatfile-to-xml-regex" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/freemarker-huge-transform" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/groovy" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/java-basic" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/java-to-java" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/jms-router/jms-consumer" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/jms-router/jms-provider" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/jms-router/splitter-router" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/json-to-java" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/model-driven-basic" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/model-driven-basic-virtual" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/osgi/bundle-activator" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/osgi/peaberry" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/osgi/service-tracker" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/profiling" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/sj-testimonial" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/validation-basic" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/xml-read-write" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/xml-read-write-transform" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/xml-to-java" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/xml-to-java-virtual" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/xslt-basic" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/xslt-groovy" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/xslt-namespaces" />
-    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-1.7.1/smooks-examples/yaml-to-java" />
-  </component>
-  <component name="JavaScriptSettings">
-    <option name="languageLevel" value="ES6" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/commons" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/edi/ect" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/edi/edi-test" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/edi/edi-utils" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/edi/edisax" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/edi/ejc" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/scribe/adapter/hibernate" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/scribe/adapter/ibatis" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/scribe/adapter/jpa" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/scribe/core" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-all" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-cartridges/calc" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-cartridges/camel" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-cartridges/csv" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-cartridges/edi" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-cartridges/flatfile" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-cartridges/javabean" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-cartridges/json" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-cartridges/misc" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-cartridges/persistence" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-cartridges/routing" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-cartridges/rules" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-cartridges/scripting" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-cartridges/validation" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-cartridges/yaml" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-core" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/camel/camel-csv-to-xml" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/camel/camel-dataformat" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/camel/camel-integration" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/camel/camel-unedifact-to-xml" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/csv-to-java" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/csv-to-java-programmatic" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/csv-to-xml" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/csv-to-xml-2" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/csv-variable-record" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/dao-router" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/db-extract-transform-load" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/dynamic-model-builder" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/edi-to-java" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/edi-to-xml" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/edi-with-import-to-java" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/ejc/ejc-gen" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/ejc/ejc-use" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/file-router/file-consumer" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/file-router/splitter-router" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/fixed-length-to-java" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/flatfile-to-xml-regex" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/freemarker-huge-transform" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/groovy" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/java-basic" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/java-to-java" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/jms-router/jms-consumer" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/jms-router/jms-provider" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/jms-router/splitter-router" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/json-to-java" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/model-driven-basic" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/model-driven-basic-virtual" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/osgi/bundle-activator" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/osgi/peaberry" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/osgi/service-tracker" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/profiling" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/sj-testimonial" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/validation-basic" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/xml-read-write" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/xml-read-write-transform" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/xml-to-java" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/xml-to-java-virtual" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/xslt-basic" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/xslt-groovy" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/xslt-namespaces" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/smooks-examples/yaml-to-java" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/smooks-1.7.1/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
 </project>

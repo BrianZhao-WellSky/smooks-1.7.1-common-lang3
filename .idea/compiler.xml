@@ -180,9 +180,6 @@
       <module name="testres" target="1.8" />
     </bytecodeTargetLevel>
   </component>
-  <component name="EclipseCompilerSettings">
-    <option name="ECJ_TOOL_PATH" value="$PROJECT_DIR$/../../ecj-4.5.2.jar" />
-  </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="antrunner" options="-Xlint:deprecation -Xlint:unchecked" />
